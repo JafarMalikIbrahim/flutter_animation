@@ -1,5 +1,12 @@
 # flutter_animation
 
+![image](https://github.com/JafarMalikIbrahim/flutter_animation/assets/92065895/ebb58e78-d76d-46de-925b-6f00aba6a185)
+
+
+
+![Screenshot 2023-05-23 230507](https://github.com/JafarMalikIbrahim/flutter_animation/assets/92065895/1551b424-2a9c-44d5-8eea-2f8a5bfedfbd)
+
+
 A new Flutter project.
 
 ## Getting Started
